@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Name Page Generator</title>
+    <style>
+        body { font-family: Arial; padding: 20px; background: #f8f8f8; }
+        textarea { width: 100%; height: 150px; margin-bottom: 20px; font-size: 16px; }
+        button {
+            padding: 12px 25px; background: #4A90E2;
+            color: white; border: none; font-size: 18px; cursor: pointer;
+        }
+        button:hover { background: #357ABD; }
+    </style>
+</head>
+<body>
+    <h2>Auto Name Page Generator</h2>
+    <p>Enter names (one name per line):</p>
+
+    <textarea id="nameList"></textarea><br>
+    <button onclick="generatePages()">Generate Pages</button>
+
+    <script>
+        function generateMeaning(name) {
+    name = name.toLowerCase();
+
+    // simple meaning database (you can expand later)
+    const meanings = {
+        arjun: "Arjun means bright, shining, or white. It also represents confidence and heroism.",
+        aarav: "Aarav means peace, wisdom, and calmness.",
+        vivaan: "Vivaan means full of life or vibrant.",
+        priya: "Priya means beloved or dear one.",
+        fatima: "Fatima means captivating and one who abstains.",
+        kabir: "Kabir means great, powerful, or noble.",
+        neha: "Neha means love, rain, and affection.",
+        diya: "Diya means light or lamp.",
+        riya: "Riya means singer or graceful.",
+        advika: "Advika means unique or one of a kind.",
+        rehan: "Rehan means fragrant plant or kingly.",
+        kiaan: "Kiaan means God's grace or ancient king."
+    };
+
+    if (meanings[name]) {
+        return meanings[name];
+    }
+
+    // fallback generic meaning (used for names not in list)
+    return `The name ${name.charAt(0).toUpperCase() + name.slice(1)} represents positivity, personality, and individuality. It carries a sense of strength and identity.`;
+}
+        function generatePages() {
+            let names = document.getElementById("nameList").value.trim().split("\n");
+
+            names.forEach(name => {
+                let meaning = generateMeaning(name);
+                name = name.trim();
+                if (name === "") return;
+
+                let fileName = name.toLowerCase().replace(/ /g, "-") + ".html";
+               let content = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>${name} Name Meaning | Origin, Personality, Numerology</title>
+<meta name="description" content="Discover the meaning of the name ${name}, including its origin, significance, personality traits, numerology, and unique characteristics.">
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #f4f7fb;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: auto;
+        margin-top: 40px;
+        background: white;
+        padding: 25px;
+        border-radius: 12px;
+        box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+        color: #4A90E2;
+        margin-bottom: 10px;
+    }
+
+    .section {
+        margin-top: 20px;
+        padding: 15px;
+        background: #eef5ff;
+        border-left: 4px solid #4A90E2;
+        border-radius: 8px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #4A90E2;
+        font-size: 16px;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
+</head>
+
+<body>
+<div class="container">
+    <a href="../index.html">← Back to Home</a>
+    <h1>${name} — Name Meaning</h1>
+
+    <div class="section">
+        <h3>Meaning of ${name}</h3>
+        <p>${meaning}</p>
+    </div>
+
+    <div class="section">
+        <h3>Origin</h3>
+        <p>Origin details coming soon.</p>
+    </div>
+
+    <div class="section">
+        <h3>Numerology</h3>
+        <p>Numerology insights for the name <b>${name}</b> will be added.</p>
+    </div>
+    <div class="section">
+    <h3>Related Names</h3>
+    <p>Explore similar names: <a href="arjun.html">Arjun</a>, <a href="aarav.html">Aarav</a>, <a href="vivaan.html">Vivaan</a>, <a href="priya.html">Priya</a>.</p>
+</div>
+</div>
+</body>
+</html>`;
+
+                let blob = new Blob([content], { type: "text/html" });
+                let link = document.createElement("a");
+                link.href = URL.createObjectURL(blob);
+                link.download = fileName;
+                link.click();
+            });
+
+            alert("Pages Generated! Check your downloads folder.");
+        }
+    </script>
+</body>
+</html>

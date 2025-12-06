@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="google-site-verification" content="hdThaxB2i2MXErt3xgA70Zp7A7tJFTnSyu0nrcXYzVo" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Name Finder | Name Meanings Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background: #4A90E2;
+            padding: 25px;
+            text-align: center;
+            color: white;
+            font-size: 32px;
+            font-weight: bold;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            margin-top: 35px;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.08);
+        }
+
+        h2 { color: #4A90E2; margin-bottom: 15px; }
+
+        input {
+            width: 100%;
+            padding: 15px;
+            font-size: 18px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            margin-bottom: 15px;
+        }
+
+        button {
+            padding: 12px 30px;
+            background: #4A90E2;
+            border: none;
+            color: white;
+            font-size: 18px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        button:hover { background: #357ABD; }
+
+        .section-title {
+            margin-top: 35px;
+            font-size: 20px;
+            font-weight: bold;
+            color: #4A90E2;
+        }
+
+        .name-grid {
+            margin-top: 15px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .name-grid a {
+            background: #eef5ff;
+            padding: 10px 14px;
+            border-radius: 6px;
+            color: #4A90E2;
+            text-decoration: none;
+            font-size: 15px;
+            border: 1px solid #4A90E2;
+        }
+
+        .name-grid a:hover {
+            background: #4A90E2;
+            color: white;
+        }
+
+        footer {
+            margin-top: 50px;
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>My Name Finder</header>
+
+<div class="container">
+
+    <h2>Search Your Name Meaning</h2>
+    <input type="text" id="nameInput" placeholder="Enter a name...">
+    <button onclick="goToNamePage()">Find Meaning</button>
+
+    <div class="section-title">Trending Name Meanings</div>
+    <div class="name-grid">
+        <a href="names/arjun.html">Arjun</a>
+        <a href="names/aarav.html">Aarav</a>
+        <a href="names/priya.html">Priya</a>
+        <a href="names/fatima.html">Fatima</a>
+        <a href="names/vivaan.html">Vivaan</a>
+        <a href="names/kabir.html">Kabir</a>
+        <a href="names/advika.html">Advika</a>
+        <a href="names/kiaan.html">Kiaan</a>
+    </div>
+        <div class="section-title">Names by Category</div>
+        <div class="name-grid">
+        <a href="categories/hindu-boy-names.html">Hindu Boy Names</a>
+        <a href="categories/hindu-girl-names.html">Hindu Girl Names</a>
+        <a href="categories/muslim-boy-names.html">Muslim Boy Names</a>
+        <a href="categories/muslim-girl-names.html">Muslim Girl Names</a>
+        <a href="categories/christian-names.html">Christian Names</a>
+        <a href="categories/modern-names.html">Modern Names</a>
+        <a href="categories/unique-names.html">Unique Names</a>
+        <a href="categories/short-names.html">Short Names</a>
+        </div>
+
+
+</div>
+
+<footer>
+    <p>© 2025 My Name Finder — All Rights Reserved.</p>
+    <p>
+        <a href="about.html">About</a> |
+        <a href="contact.html">Contact</a> |
+        <a href="privacy.html">Privacy Policy</a>
+    </p>
+</footer>
+
+<script>
+function goToNamePage() {
+    let name = document.getElementById("nameInput").value.trim();
+
+    if (name === "") {
+        alert("Please enter a name.");
+        return;
+    }
+
+    let fileName = name.toLowerCase().replace(/ /g, "-") + ".html";
+    window.location.href = "names/" + fileName;
+}
+</script>
+
+</body>
+</html>
