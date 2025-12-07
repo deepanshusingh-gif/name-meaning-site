@@ -122,27 +122,78 @@ def build_html(row):
     slug = slugify(name)
     meaning = row.get("meaning", "").strip() or "Meaning not available"
     origin = row.get("origin", "").strip() or "Unknown"
-    description_html = generate_description(row)
+    gender = (row.get("gender") or "").strip().capitalize() or "Unspecified"
+    traits = row.get("traits", "").strip() or choice(DEFAULT_TRAITS)
+    pronunciation = (row.get("pronunciation") or "").strip()
+
+    # Meta title + description (kept concise and SEO-friendly)
     title = f"{name} Meaning — {meaning} | {SITE_NAME}"
-    meta_desc = f"{name} meaning — {meaning}. Origin: {origin}. Find the meaning, origin, traits and pronunciation."
+    # meta description target ~120-155 chars
+    meta_desc_short = f"{name} meaning: {meaning}. Origin: {origin}. Traits: {traits}."
+    if len(meta_desc_short) > 155:
+        meta_desc = meta_desc_short[:152].rsplit(" ",1)[0] + "..."
+    else:
+        meta_desc = meta_desc_short
+
     page_url = f"{SITE_URL}/names/{slug}.html"
     lastmod = datetime.utcnow().date().isoformat()
 
-    jsonld = {
+    # richer JSON-LD: WebPage + DefinedTerm + BreadcrumbList
+    jsonld_obj = {
         "@context": "https://schema.org",
-        "@type": "WebPage",
-        "name": name,
-        "description": re.sub(r"\s+", " ", re.sub(r"<.*?>", "", description_html))[:197] + "...",
-        "url": page_url,
-        "inLanguage": DEFAULT_LOCALE,
-        "author": {"@type":"Organization","name": AUTHOR},
-        "mainEntity": {
-            "@type": "DefinedTerm",
-            "name": name,
-            "description": meaning,
-            "inDefinedTermSet": SITE_URL
-        }
+        "@graph": [
+            {
+                "@type": "WebPage",
+                "@id": page_url,
+                "name": name,
+                "description": re.sub(r"\s+", " ", meaning)[:197],
+                "url": page_url,
+                "inLanguage": DEFAULT_LOCALE,
+                "author": {"@type": "Organization", "name": AUTHOR}
+            },
+            {
+                "@type": "DefinedTerm",
+                "name": name,
+                "description": meaning,
+                "inDefinedTermSet": SITE_URL
+            },
+            {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL + "/"},
+                    {"@type": "ListItem", "position": 2, "name": "Names", "item": SITE_URL + "/names/"},
+                    {"@type": "ListItem", "position": 3, "name": name, "item": page_url}
+                ]
+            }
+        ]
     }
+
+    # Small internal links to categories (gender + origin + length)
+    gender_slug = slugify_simple(gender)
+    origin_slug = slugify_simple(origin)
+    nlen = len(name.replace(" ", ""))
+    if nlen <= 4:
+        length_label = "Short (1-4)"
+    elif nlen <= 7:
+        length_label = "Medium (5-7)"
+    else:
+        length_label = "Long (8+)"
+    length_slug = slugify_simple(length_label)
+
+    # Category URLs
+    cat_gender_url = f"{SITE_URL}/categories/{gender_slug}.html"
+    cat_origin_url = f"{SITE_URL}/categories/origin-{origin_slug}.html"
+    cat_length_url = f"{SITE_URL}/categories/length-{length_slug}.html"
+
+    # Build content HTML
+    description_html = generate_description(row)
+    cat_links_html = f'''
+    <p>Categories:
+      <a href="{cat_gender_url}">{html.escape(gender)}</a> |
+      <a href="{cat_origin_url}">{html.escape(origin)}</a> |
+      <a href="{cat_length_url}">{html.escape(length_label)}</a>
+    </p>
+    '''
 
     og_image = f"{SITE_URL}/og-default.png"
 
@@ -164,7 +215,7 @@ def build_html(row):
   <meta name="twitter:title" content="{safe_text(title)}" />
   <meta name="twitter:description" content="{safe_text(meta_desc)}" />
   <script type="application/ld+json">
-  {html.escape(str(jsonld)).replace("&quot;", '"')}
+{html.escape(str(jsonld_obj)).replace("&quot;", '"')}
   </script>
   <style>
     body{{font-family: system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;max-width:820px;margin:28px auto;padding:0 18px;color:#111;line-height:1.6}}
@@ -179,10 +230,11 @@ def build_html(row):
   <header>
     <a href="{SITE_URL}" class="button">← Home</a>
     <h1>{safe_text(name)}</h1>
-    <div class="meta">Meaning: <strong>{safe_text(meaning)}</strong> • Origin: {safe_text(origin)}</div>
+    <div class="meta">Meaning: <strong>{safe_text(meaning)}</strong> • Origin: {safe_text(origin)} • Pronunciation: {safe_text(pronunciation)}</div>
   </header>
   <main class="content">
     {description_html}
+    {cat_links_html}
     <h3>Quick facts</h3>
     <ul>
       <li><strong>Name:</strong> {safe_text(name)}</li>
@@ -395,7 +447,11 @@ def main():
 
     # generate category pages using CSV rows and index_pages
     generate_categories(rows, index_pages)
-
+    # add category pages to sitemap automatically
+    # iterate generated category html files and add to sitemap_additions
+    for f in CATEGORIES_DIR.glob("*.html"):
+        url = f"{SITE_URL}/categories/{f.name}"
+        sitemap_additions[url] = datetime.utcnow().date().isoformat()
     print(f"[done] Created: {created}, Overwritten: {overwritten}, Total processed: {len(rows)}")
     print("Next steps: git add public/names/*.html public/sitemap.xml public/robots.txt public/categories && git commit && git push")
 
