@@ -7,6 +7,7 @@
 #  - Run: python generate_name_pages.py
 
 import csv
+import json
 import html
 import os
 import re
@@ -167,6 +168,9 @@ def build_html(row):
             }
         ]
     }
+    # produce valid JSON-LD (raw JSON, not HTML-escaped)
+    json_ld = json.dumps(jsonld_obj, ensure_ascii=False, indent=2)
+    json_ld_block = f'<script type="application/ld+json">\n{json_ld}\n</script>'
 
     # Small internal links to categories (gender + origin + length)
     gender_slug = slugify_simple(gender)
@@ -214,7 +218,7 @@ def build_html(row):
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{safe_text(title)}" />
   <meta name="twitter:description" content="{safe_text(meta_desc)}" />
-  <script type="application/ld+json">
+{json_ld_block}
 {html.escape(str(jsonld_obj)).replace("&quot;", '"')}
   </script>
   <style>
