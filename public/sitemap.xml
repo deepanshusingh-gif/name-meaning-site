@@ -1,1178 +1,1514 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://name-meaning-site.vercel.app/categories/christian-names .html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/hindu-boy-names.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/hindu-girl-names.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/index.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/length-long-8.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/length-medium-5-7.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/length-short-1-4.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/male.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/modern-names.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/muslim-boy-names.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/muslim-girl-names.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-arabic-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-arabic-male.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-arabic-sanskrit.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-arabic.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-archer.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-bengali-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-bengali.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-farsi-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-farsi.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-friendly.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-greek-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-greek.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-gujarati-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-hebrew.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-hellenic-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-hindi-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-hindu-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-hindu-male.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-indian-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-irish-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-irish.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-japanese.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-latin-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-latin.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-legendary.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-modern-male.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-new.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-persian-male.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-protection.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-russian-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-saint-s-name.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-sanskrit-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-sanskrit-french.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-sanskrit-influenced.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-sanskrit-male.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-sanskrit.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-scottish-male.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-sikh-female.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-slavic.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/origin-vedic.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/short-names.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/unique-names.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://name-meaning-site.vercel.app/categories/unisex-unknown.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://name-meaning-site.vercel.app/names/aadvika.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aanya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aarav.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aarohi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aayush.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/abeer.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/abhay.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/abhinav.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aditi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aditya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/adya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aheli.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ainesh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/akira.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aksh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/alisha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/amaira.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/amay.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/amitabh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/anaira.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/anaya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/anik.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/anush.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/anushka.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/anvi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/arav.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aria.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/arnav.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/arush.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aryahi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/aryan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/asha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/atharv.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/avira.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/bhavin.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/bhumika.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/bijal.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/bina.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/brijesh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/chetan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/chinmay.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/chirag.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/chiranjeevi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/chirantan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/cyrus.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/daksh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/daksha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/darpan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/darsha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/darshan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/deepa.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/dev.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/devanshi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/eesha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/eka.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ekansh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ekta.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/esha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/farhan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/farida.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/faridaa.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/firoz.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/gaurav.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/gevind.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/girish.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/gitanjali.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/govind.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/harini.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/harsha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/hikmat.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/himani.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/himanshu.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/imaya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ira.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ish.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/isha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ishaan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ishaana.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ishaaya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ishani.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ishita.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ishwar.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/jahnavi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/jaidev.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/jalaj.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/jasleen.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/jayan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/jayesh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/juhi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/kabir.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/kailash.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/kaira.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/kamya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/karan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/karishma.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/kavish.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/kavya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/kiaan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/kriti.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/krupa.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/laila.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/lalit.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/lavanya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/laya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/leela.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/lokesh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/manas.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/manjari.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/manvi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/maya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/mira.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/mithra.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/mohit.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/moksha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/naina.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/naman.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/navya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/nayan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/neelam.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/neeraj.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/neil.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/nisha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/nivaan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/nivedita.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/oindrila.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/om.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/omisha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/omkar.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/oriana.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/oshin.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/paarth.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/parthiv.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/pranav.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/pranay.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/pratham.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/pritha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/priya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/priyanka.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/priyansh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/qamar.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/qamarina.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/qasim.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ramesh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/reva.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/rhea.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/riddhi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/riya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/riyaz.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/rohan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ruchika.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/rutik.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/saanjh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/sachin.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/sahil.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/samarjeet.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/samarth.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/samir.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/sana.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/sanaya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/saumya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/shreya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/tanay.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/tanmay.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/tanya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/tara.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/tavish.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/tharun.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/trisha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/uday.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/uparaj.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/ushna.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/uttam.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/vairaj.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/vansh.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/vanya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/vibha.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/vidhi.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/vihaan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/vishal.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/waseem.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/wasfia.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/weta.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/widad.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/xandria.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/xavier.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/xena.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/yam.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/yamini.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/yash.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/yogita.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/yuvraj.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/zainab.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/zarina.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/zeeshan.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/zoya.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://name-meaning-site.vercel.app/names/zubin.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
